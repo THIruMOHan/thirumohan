@@ -1,7 +1,7 @@
 int main(void) 
 {
 	int n,l,r;
-	printf("\n enter the number:");
+	printf("\n enter  number:");
 	scanf("%d",&n);
 	printf("\n enter left and right range:");
 	scanf("%d %d",&l,&r);
